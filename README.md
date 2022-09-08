@@ -78,11 +78,13 @@ Annual cost can be decimal (rounded off to 2 decimal places)
 
 ## Steps to Run
 
-1. Launch the Console application from Visual Studio start up 
+1. Restore the Nuget packages from Nuget Package Manager
 
-2. Or from dotnet CLI (give these commands from project root folder) dotnet restore, dotnet build, dotnet run
+2. Launch the Console application from Visual Studio start up 
 
-3. Application asks for consumption value, input the consumption value
+3. Or from dotnet CLI (give these commands from project root folder) dotnet restore, dotnet build, dotnet run
 
-4. Application displays the table with product name and annual costs
+4. Application asks for consumption value, input the consumption value
+
+5. Application displays the table with product name and annual costs
 
