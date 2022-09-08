@@ -78,7 +78,7 @@ Annual cost can be decimal (rounded off to 2 decimal places)
 
 ## Steps to Run
 
-1. Restore the Nuget packages from Nuget Package Manager
+1. Restore the Nuget packages from Nuget Package Manager/Package Manager Console
 
 2. Launch the Console application from Visual Studio start up 
 
