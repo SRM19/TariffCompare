@@ -62,7 +62,7 @@ Built a Console application using C#/.NET Core 6.
 
 Annual cost is calculated as sum of Base cost and Consumption cost
 
-Consumption cost is calculated depending upon the type of tariff product
+Consumption cost is calculated based on the calculation model of tariff product
 
 Application accepts consumption value and returns the tariff products in ascending order
 
